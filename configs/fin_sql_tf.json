@@ -1,0 +1,11 @@
+{
+  "model_file": "models/fin_lda_tf.pkl",
+  "vectorizer_file": "models/fin_vct_tf.pkl",
+  "token_file": "models/fin_tokens_tf.pkl",
+  "vectorizer_type": "tf",
+  "data_src": "../dataset/finance_corpus.db",
+  "data_subset": "train",
+  "data_type": "sqlite",
+  "categories": "all",
+  "train_iter": 40
+}

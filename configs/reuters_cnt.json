@@ -1,0 +1,11 @@
+{
+  "model_file": "models/nltk_lda_cnt.pkl",
+  "vectorizer_file": "models/nltk_vct_cnt.pkl",
+  "token_file": "models/nltk_cnt.pkl",
+  "vectorizer_type": "count",
+  "data_src": "",
+  "data_subset": "train",
+  "data_type": "nltk",
+  "categories": "all",
+  "train_iter": 40
+}

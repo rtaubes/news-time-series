@@ -1,0 +1,11 @@
+{
+  "model_file": "models/nltk_lda_tfidf.pkl",
+  "vectorizer_file": "models/nltk_vct_tfidf.pkl",
+  "token_file": "models/nltk_token_tfidf.pkl",
+  "vectorizer_type": "tfidf",
+  "data_src": "",
+  "data_subset": "train",
+  "data_type": "nltk",
+  "categories": "all",
+  "train_iter": 40
+}
